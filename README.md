@@ -51,7 +51,7 @@ class MyWidget extends StatelessWidget {
 ## References
 
 - [All available languages](https://github.com/git-touch/highlight.dart/tree/master/highlight/lib/languages)
-- [All available themes](https://github.com/1runeberg/code_highlight-view/blob/main/code_highlight_view/lib/themes)
+- [All available themes](https://github.com/1runeberg/code_highlight_view/tree/main/lib/themes)
 
 ## License
 
