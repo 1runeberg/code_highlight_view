@@ -9,16 +9,15 @@ Main impetus to publish this is to update the (abandoned?) original project to D
 
 ```dart
 import 'package:flutter/material.dart';
-import 'package:flutter_highlight/flutter_highlight.dart';
-import 'package:flutter_highlight/themes/github.dart';
+import 'package:code_highlight_view/code_highlight_view.dart';
+import 'package:code_highlight_view/themes/github.dart';
 
 class MyWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     var code = '''main() {
-  print("Hello, World!");
-}
-''';
+      print("Hello, World!");
+    }''';
 
     return CodeHighlightView(
       // The original code to be highlighted

@@ -1,3 +1,8 @@
+# Patch Release v0.1.1
+
+- Update demo code in README
+
+
 # Initial Release v0.1.0
 
 - Publish as code_highlight_view: forked from https://github.com/git-touch/highlight.dart

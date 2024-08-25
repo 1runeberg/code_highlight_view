@@ -1,6 +1,6 @@
 name: code_highlight_view
 description: Syntax highlighting widget for Flutter. This is an update/fork of package:highlight_view with selectable text and perf improvements.
-version: 0.1.0
+version: 0.1.1
 homepage: https://github.com/1runeberg/code_highlight_view
 
 environment:
